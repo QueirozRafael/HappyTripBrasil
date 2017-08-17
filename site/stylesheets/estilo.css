@@ -1,0 +1,147 @@
+body {
+  height: 100px !important;
+  font-family: sans-serif;
+}
+
+/*.estilo-logo {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0;
+  padding: 10px;
+  width: 80px;
+}*/
+
+#subheader h4, #subheader h5 {
+  color: aliceblue;
+  text-align: center;
+}
+
+#subheader h5 {
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 15px;
+}
+
+#subheader {
+  background: #b89b73;
+  border-top: 1px solid #b89b73;
+}
+
+.select select {
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+  color: rgba(0, 0, 0, 0.75);
+  display: block;
+  font-size: 14px;
+  margin: 1px 0 12px 0;
+  padding: 6px;
+  height: 30px;
+  width: 20%;
+  border-radius: 2px;
+}
+
+.select {
+  right: 0;
+  width: 100%;
+}
+/*#footer {
+  border: 0px;
+}*/
+
+.ei-slider-large img {
+  max-width: 100% !important;
+  height: 500px !important;
+  margin-left: 0px !important;
+  margin-top: 0px !important;
+}
+
+.destinos {
+  padding-top: 50px;
+}
+
+[class*="column"] + [class*="column"]:last-child {
+   float: left;
+ }
+
+.columns {
+  padding: 2px;
+}
+
+.threeportofolio {
+  min-width: 33% !important;
+}
+
+.logo-cadastur {
+  width: 250px;
+  float: right;
+}
+
+footer .columns {
+  width: 100% !important;
+}
+
+.ctextarea {
+  width: 100%;
+}
+
+.fa {
+  padding: 0 5px;
+}
+
+/*#footer {
+  margin-top: 0;
+}*/
+
+input[type='submit'] {
+  width: 100%;
+  font-size: xx-large;
+  float: right;
+}
+/*.row {
+  width: 100%;
+}*/
+
+.left {
+  float: left;
+  margin-left: 20px;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+
+.clearboth {
+  clear: both;
+}
+
+@media (max-width: 800px) {
+.estilo-logo {
+  display: none;
+}
+
+.ei-slider-large img {
+  max-width: 100% !important;
+  max-height: 100% !important;
+}
+
+.headerlogo {
+  position: absolute;
+}
+
+.destinos {
+  padding-top: 50px;
+}
+
+#subheader h5 {
+  font-size: 12px;
+}
+
+.logo-cadastur {
+  width: 125px;
+  float: right;
+  padding-top: 10px;
+}
+
+.columns {
+   width: 100% !important;
+ }
+
+}
