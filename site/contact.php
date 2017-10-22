@@ -103,14 +103,14 @@ header('Content-Type: text/html; charset=utf-8');
   				</div>
 			    <div class="six columns noleftmargin">
 						<label>Nome</label>
-						<input type="text" id="name" name="name" class="smoothborder" placeholder="seu nome *" required/>
+						<input type="text" id="name" name="name" class="smoothborder" required/>
 					</div>
 					<div class="six columns noleftmargin">
 						<label>E-mail</label>
-						<input type="email" id="email" name="email" class="smoothborder" placeholder="seu email *" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required/>
+						<input type="email" id="email" name="email" class="smoothborder" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required/>
 					</div class="six columns noleftmargin">
 						<label>Mensagem</label>
-						<textarea id="comment" name="comment" class="smoothborder ctextarea" rows="14" placeholder="Mensagem, sugestão, reclamação *" required></textarea>
+						<textarea id="comment" name="comment" class="smoothborder ctextarea" rows="14" placeholder="Deixe aqui sua crítica, sugestão ou agradecimento" required></textarea>
 						<input type="submit" class="readmore" value="Enviar">
 				</div>
 			</form>

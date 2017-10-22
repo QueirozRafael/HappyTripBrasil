@@ -10,7 +10,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Destinos</title>
+<title>Roteiros</title>
+<link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">
 <link rel="stylesheet" href="stylesheets/skins/dourado.css">
@@ -40,7 +41,7 @@
 	<div class="row">
 		<div class="twelve columns">
 			<p>
-				 Destinos
+				 Roteiros
 			</p>
 		</div>
 	</div>
@@ -52,81 +53,9 @@
 ================================================== -->
 <div class="row">
 	<div id="portofolio">
-		<!-- Project Rafting Socorro -->
+		<!-- Roteiro Cabo frio, Arraial e Búzios -->
 		<div class="four columns threeportofolio category trains">
-			<h5>Rafting Socorro</h5>
-			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_rafting_socorro.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/rafting_socorro.jpg" class="threeimage" alt=""/>
-        <p>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>05/08 à 06/08</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$330,00</span><br>
-  			</p>
-      </div>
-		</div>
-		<!-- Project Campos do Jordão -->
-		<div class="four columns threeportofolio category trains">
-			<h5>Campos do Jordão - Day Use</h5>
-			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<!-- <div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_campos_jordao.html">Saiba mais</a>
-					</div> -->
-				</div>
-				<img src="images/destinos/campos_jordao_esgotado.jpg" class="threeimage" alt=""/>
-        <p>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>20/08</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$290,00</span>
-  			</p>
-      </div>
-		</div>
-    <!-- Project Capitólio-->
-		<div class="four columns threeportofolio category trains">
-			<h5>Capitólio</h5>
-			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_capitolio.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/capitolio.jpg" class="threeimage" alt=""/>
-        <p>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>15/09 à 17/09</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$450,00</span>
-  			</p>
-      </div>
-		</div>
-		<!-- Project Fazenda dos Contos-->
-		<div class="four columns threeportofolio category trains">
-			<h5>Fazenda dos Contos - Day Use</h5>
-			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_fazenda_dos_contos.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/fazenda_contos.jpg" class="threeimage" alt=""/>
-        <p>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>08/10</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>R$135,00</span>
-  			</p>
-      </div>
-		</div>
-		<!-- Project Cabo frio, Arraial e Búzios-->
-		<div class="four columns threeportofolio category trains">
-			<h5>Cabo Frio, Arraial e Búzios - 3 em 1</h5>
+			<h5>Cabo Frio, Arraial do Cabo, Buzios</h5>
 			<div class="portofoliothumb">
 				<div class="portofoliothumboverlay threeoverlay">
 					<div class="inner threedetail">
@@ -142,7 +71,7 @@
   			</p>
       </div>
 		</div>
-		<!-- Project Bonito-MT -->
+		<!-- Roteiro Bonito-MT -->
 		<div class="four columns threeportofolio category trains">
 			<h5>Bonito-MT</h5>
 			<div class="portofoliothumb">
@@ -151,12 +80,54 @@
 						<a class="projectdetail" href="detalhes_bonito.php">Saiba mais</a>
 					</div>
 				</div>
-				<img src="images/destinos/bonito.jpg" class="threeimage" alt=""/>
+				<img src="images/destinos/bonito_esgotado.jpg" class="threeimage" alt=""/>
         <p>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>17/11 à 21/11</span><br>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>a partir de R$1.500,00</span>
+  			</p>
+      </div>
+		</div>
+    <!-- Roteiro Parque Maeda -->
+		<div class="four columns threeportofolio category trains">
+			<h5>Parque Maeda</h5>
+			<div class="portofoliothumb">
+				<div class="portofoliothumboverlay threeoverlay">
+					<div class="inner threedetail">
+						<a class="projectdetail" href="detalhes_parque_maeda.php">Saiba mais</a>
+					</div>
+				</div>
+				<img src="images/destinos/parque_maeda.jpg" class="threeimage" alt=""/>
+        <p>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>26/11/17</span><br>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>a partir de R$130,00</span><br>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>Day Use</span><br>
+        </p>
+      </div>
+		</div>
+    <!-- Roteiro Búzios Reveillon -->
+		<div class="four columns threeportofolio category trains">
+			<h5>Búzios-Reveillon</h5>
+			<div class="portofoliothumb">
+				<div class="portofoliothumboverlay threeoverlay">
+					<div class="inner threedetail">
+						<a class="projectdetail" href="detalhes_buzios_reveillon.php">Saiba mais</a>
+					</div>
+				</div>
+				<img src="images/destinos/buzios_reveillon.jpeg" class="threeimage" alt=""/>
+        <p>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>29/12/17 à 01/01/18</span><br>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>Réveillon em Alto Mar - Búzios</span><br>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>Buffet completo e Open Bar</span><br>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>a partir de R$650,00</span>
   			</p>
       </div>
 		</div>

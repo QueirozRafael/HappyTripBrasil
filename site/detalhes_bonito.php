@@ -11,6 +11,7 @@
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
 <title>Detalhes Bonito-MT</title>
+<link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">
 
@@ -43,7 +44,7 @@
 <div id="subheader">
 	<div class="row">
 		<div class="twelve columns">
-			<p class="center">
+			<p>
 				 Detalhes
 			</p>
 		</div>
@@ -57,7 +58,7 @@
 	<div class="six columns img_detalhes">
 		<div class="slider-wrapper theme-default">
 			<div id="slider" class="nivoSlider detailslider">
-				<img src="images/destinos/bonito.jpg" data-thumb="" alt=""/>
+				<img src="images/destinos/bonito_esgotado.jpg" data-thumb="" alt=""/>
 			</div>
 		</div>
 	</div>
@@ -171,25 +172,26 @@
               <span></span><br>
             </p>
 						<p>
-							<span><b>Previsão de chegada às 07h20 em São Paulo aeroporto de Guarulhos(GRU).</b></span>
+							<span><b>Obs: Previsão de chegada às 07h20 em São Paulo aeroporto de Guarulhos(GRU).</b></span>
 						</p>
 					</div>
 				</li>
 				<li id="simple3Tab">
-				<p>
-					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-					<span>R$ 1.500,00 (por pessoa) via depósito e transferência bancária á vista ou em 4 depósitos | Julho, Agosto, Setembro, e Outubro.</span><br>
-					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-					<span>R$ 1.500,00 (por pessoa) no cartão de crédito com acressimo de 7% em até 12x com juros.</span>
-				</p>
-			</li>
+					<p>
+						<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+						<span>R$ 1.500,00 (por pessoa) via depósito e transferência bancária á vista ou em 4 depósitos | Julho, Agosto, Setembro, e Outubro.</span><br>
+						<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+						<span>R$ 1.500,00 (por pessoa) no cartão de crédito com acressimo de 7% em até 12x com juros.</span>
+					</p>
+				</li>
 			</ul>
 		</div>
-	<!-- end main content-->
+		<!-- end main content-->
 	</div>
-	<a href="pre_reserva.php?destino=Bonito-MT">
+
+	<!-- <a href="pre_reserva.php?destino=Bonito-MT">
 		<input type="submit" id="submit" class="readmore" value="Reservar">
-	</a>
+	</a> -->
 </div>
 
 <!-- FOOOTER

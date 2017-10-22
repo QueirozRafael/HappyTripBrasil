@@ -14,6 +14,7 @@ header('Content-Type: text/html; charset=utf-8');
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
 <title>Pré reserva</title>
+<link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">
 
@@ -94,11 +95,11 @@ header('Content-Type: text/html; charset=utf-8');
 					<div class="form">
 						<div class="six columns noleftmargin">
 							<label>Nome</label>
-							<input id="nome" type="text" name="name" class="smoothborder" placeholder="seu nome *" required/>
+							<input id="nome" type="text" name="name" class="smoothborder" required/>
 						</div>
 						<div class="six columns noleftmargin">
 							<label>E-mail</label>
-							<input id="email" type="email" name="email" class="smoothborder" placeholder="seu email *" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required/>
+							<input id="email" type="email" name="email" class="smoothborder" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required/>
 						</div>
 						<div class="six columns noleftmargin">
 							<label>CPF</label>

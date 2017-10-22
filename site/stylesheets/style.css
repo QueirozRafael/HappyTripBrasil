@@ -2,7 +2,7 @@
 /* Global Reset & Standards ---------------------- */
 * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 html { font-size: 62.5% }
-body { font-family: DroidSansRegular, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; color: #666; position: relative; -webkit-font-smoothing: antialiased; }
+body { font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size: 13px; line-height: 20px; color: #666; position: relative; -webkit-font-smoothing: antialiased; }
 /* Links ---------------------- */
 a { color: #2ba6cb; text-decoration: none; line-height: inherit; }
 a:hover { color: #2795b6 }
@@ -152,7 +152,7 @@ form.custom .custom.disabled { background-color: #ddd }
 }
 .lt-ie9 form.custom div.custom.dropdown a.selector { height: 30px }
 /* The Grid ---------------------- */
-.row { width: 980px;  min-width: 768px; max-width: 100%; margin: 0 auto; }
+.row { width: 980px;  min-width: 768px; max-width: 100%; margin: 0 auto; padding: 15px 0}
 .row .row { width: auto; max-width: none; min-width: 0; margin: 0 -15px; }
 .row.collapse .column,
 .row.collapse .columns { padding: 0 }

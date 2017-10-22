@@ -12,13 +12,13 @@
 		<nav id="nav-wrap">
 		<ul id="main-menu" class="nav-bar sf-menu">
 			<li class="current">
-				<a href="index.php">Home</a>
+				<a href="index.php">HOME</a>
 			</li>
 			<li>
-				<a href="destinos.php">Destinos</a>
+				<a href="destinos.php">ROTEIROS</a>
 			</li>
 			<li>
-				<a href="contact.php">Contato</a>
+				<a href="contact.php">CONTATO</a>
 			</li>
 		</ul>
 		</nav>

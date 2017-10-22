@@ -1,16 +1,44 @@
 body {
+
   height: 100px !important;
   font-family: sans-serif;
 }
 
-/*.estilo-logo {
+.nav-bar > li > a:first-child {
+	padding-right: 70px;
+	font-size: 16px;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+#nav-wrap {
+  margin-top: 0;
+}
+
+.sf-menu {
+	margin-bottom: 0;
+}
+
+.minipause {
+  background-color: #b89b73 !important;
+}
+
+.left-align {
+  text-align: left !important;
+}
+
+.estilo-logo {
   display: block;
   position: absolute;
   top: 0px;
   left: 0;
-  padding: 10px;
-  width: 80px;
-}*/
+  /*padding: 3px 8px;*/
+  margin-left: 0px;
+}
+
+.estilo-logo .rodape {
+  width: 100px;
+}
 
 #subheader h4, #subheader h5 {
   color: aliceblue;
@@ -73,19 +101,60 @@ body {
 
 .logo-cadastur {
   width: 250px;
-  float: right;
+  /*float: right;*/
 }
 
-footer .columns {
+/*footer .columns {
   width: 100% !important;
+}*/
+.footer {
+  background: #151515;
+  color: #666;
+  padding: 30px 0;
+  margin-top: 36px;
+  width: 100%;
 }
+.footer a {
+  color: #666;
+  font-size: 20px;
+}
+.footer h1 {
+  font-size: 16px;
+  color: #ccc;
+  margin-bottom: 20px;
+}
+.footer .four p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.four {
+  text-align: center;
+  /*margin-top: 20px;*/
+}
+.copyrigth p {
+  border-top: 1px solid #666;
+  text-align: center;
+  background-color: #151515;
+  padding: 20px 0;
+  margin-bottom: 0;
+}
+.designer {
 
+}
+.copyrigth a {
+  color: #666;
+}
 .ctextarea {
   width: 100%;
 }
 
 .fa {
   padding: 0 5px;
+}
+
+.fb-like {
+  /*width: 100%;*/
+  text-align: center;
 }
 
 /*#footer {
@@ -112,6 +181,10 @@ input[type='submit'] {
   clear: both;
 }
 
+.row {
+    padding: 15px;
+}
+
 @media (max-width: 800px) {
 .estilo-logo {
   display: none;
@@ -135,13 +208,17 @@ input[type='submit'] {
 }
 
 .logo-cadastur {
-  width: 125px;
-  float: right;
-  padding-top: 10px;
+  /*width: 125px;
+  padding-top: 10px;*/
+  /*float: left;*/
 }
 
 .columns {
    width: 100% !important;
+ }
+
+ .row {
+     padding: 0;
  }
 
 }

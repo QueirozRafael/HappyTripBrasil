@@ -10,8 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Detalhes Cabo Frio, Arraial do Cabo, Buzios</title>
-<link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
+<title>Holambra - Day Use</title>
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">
 
@@ -44,7 +43,7 @@
 <div id="subheader">
 	<div class="row">
 		<div class="twelve columns">
-			<p>
+			<p class="center">
 				 Detalhes
 			</p>
 		</div>
@@ -58,7 +57,7 @@
 	<div class="six columns img_detalhes">
 		<div class="slider-wrapper theme-default">
 			<div id="slider" class="nivoSlider detailslider">
-				<img src="images/destinos/cabo_frio_arraial_buzios.jpg" data-thumb="" alt=""/>
+				<img src="images/destinos/expoflora_holambra.jpg" data-thumb="" alt=""/>
 			</div>
 		</div>
 	</div>
@@ -66,14 +65,15 @@
 	<!-- PROJECT DESCRIPTION-->
 	<div class="six columns img_detalhes">
 		<div class="sectiontitle">
-			<h4>Cabo Frio, Arraial do Cabo e Búzios</h4>
+			<h4>Holambra - Expoflora</h4>
 		</div>
 		<div>
 			<p>
-				Região dos Lagos, no litoral Norte Fluminense, é um dos destinos preferidos,
-        especialmente nos meses de férias escolares e feriados prolongados.
-        Algumas das principais cidades da região são: Cabo Frio, Búzios e Arraial do Cabo.
-        É difícil escolher as melhores praias da Região dos Lagos, uma vez por ali, a melhor opção é ir descobrindo…
+        Holambra abriga os principais produtores de flores ornamentais.
+        Apesar de contar com mais de 11 mil habitantes, a cidade é o maior centro de cultivo e
+        comercialização de flores e plantas ornamentais do Brasil. Os produtores aproveitam a realização
+        da Expoflora, entre agosto e Setembro para lançar as novas variedades de flores e plantas para avaliar
+        a sua aceitação pelo consumidor.
 			</p>
 			<dl class="tabs">
 				<dd class="active"><a href="#simple1">Pacotes</a></dd>
@@ -84,89 +84,54 @@
 				<li class="active" id="simple1Tab">
 					<div class="columns noleftmargin">
 						<p>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+        			<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
 							<span>Transporte em Onibus de turismo;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Hospedagem - Hostel em Cabo Frio;</span><br>
+							<span>Passeio pelas Plantações de Flores;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Cafe da manhã;</span><br>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Churrasco (bebidas não inclusas);</span><br>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Traslado para Arraial do Cabo e Búzios;</span><br>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Passeio de Escuna em Arraial do Cabo;</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Brinde Happy Trip Brasil;</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-  						<span>Seguro Viagem GTA.</span><br>
+							<span>Entrada no Expoflora (ingresso incluso);</span><br>
 						</p>
 					</div>
 				</li>
 				<li id="simple2Tab">
 					<div class="columns noleftmargin">
-						<b>Quarta-feira 01/11</b>
+						<b>Domingo 24/09</b>
 						<p>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Saída às 21h30 (tolerância de 30min). Metrô Palmeiras/Barra Funda, em frente a UNINOVE.
+							<span>Saída às 07h00 - Rua Domingo Agostim (atrás do Shopping Metro Tatuapé);</span><br>
+              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+              <span>10:00 - Chegada prevista em Holambra;</span><br>
+              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+              <span>10:15 - Inicio do City Tour;</span><br>
+              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+              <span>13:00-> Fim do City Tour;</span><br>
+              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+              <span>13:30-> Almoço (não Incluso);</span><br>
+              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+              <span>15:00 -> Tarde livre para Expoflora;</span><br>
+              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+              <span>17:00 -> Retorno para São Paulo;</span><br>
+              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+              <span>21:00 -> Chegada prevista no Tatuapé.</span><br>
             </p>
-            <b>Quinta-feira 02/11</b>
-						<p>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>08h00 – Chegada prevista em Cabo Frio;</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>08h00 as 10h00 – Café da Manhã;</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>Dia Livre pra conhecer as praias de Cabo Frio;</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>20h00 - Churrasco (incluso);</span><br>
-            </p>
-            <b>Sexta-feira 03/11</b>
-						<p>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>07h00 – Café da manhã;</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>09:00 – Saída para passeio de Escuna em Arraial do Cabo (incluso);</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>19h00 - Retorno para o Hostel (Cabo Frio).</span><br>
-            </p>
-            <b>Sábado 04/11</b>
-						<p>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>07h00 – Café da manhã;</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>09h00 - Saida para conhecer Búzios (opcional);</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>17h00 Retorno para o Hostel (Cabo Frio).</span><br>
-            </p>
-						<b>Domingo 05/11</b>
-						<p>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>07h00 - Café da manhã;</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>(Manhã livre)</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>13h00 - Embarque para São Paulo.</span><br>
-  					</p>
-						<p>
-							<span><b>Previsão de chegada ás 22h30 na Barra Funda (obs: a colaboração e compreensão de todos em cooperar
-								com os horários, faz com que tenhamos uma boa viagem e cheguemos cedo ao nosso destino.</b></span>
+            <p>
+							<span>
+                <b>Obs: Os horários podem sofrer alterações devido ao trânsito no percurso.</b>
+              </span>
 						</p>
-					</div>
+        	</div>
 				</li>
 				<li id="simple3Tab">
 				<p>
 					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-					<span>Quarto Coletivo: R$580,00 por pessoa.</span><br>
-					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-					<span><strike>Quarto Casal: R$650,00 por pessoa.</strike></span>
+					<span>R$140,00 por pessoa.</span><br>
 				</p>
 			</li>
 			</ul>
 		</div>
 	<!-- end main content-->
 	</div>
-	<a href="pre_reserva.php?destino=Cabo_Frio,_Arraial_do_Cabo,_Buzios">
+	<a href="pre_reserva.php?destino=Holambra">
 		<input type="submit" id="submit" class="readmore" value="Reservar">
 	</a>
 </div>

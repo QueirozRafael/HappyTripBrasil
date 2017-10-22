@@ -259,8 +259,8 @@ SUPERFISH
 	.fitcarousel {width:81%;overflow:hidden;}
 	.textmenu { margin-top: 8px !important;}
 	#nav-wrap { margin-top: 0;}
-	/*select.tinynav{    border: 0; background: #000;  color: #fff;  height: 50px;  padding-left: 15px;font-weight:700;font-family: DroidSansRegular;}*/
-	select.tinynav{    border: 0; background: #fff;  color: #000;  height: 50px;  padding-left: 15px;font-weight:700;font-family: DroidSansRegular;}
+	select.tinynav{    border: 0; background: #000;  color: #fff;  height: 50px;  padding-left: 15px;font-weight:700;font-family: DroidSansRegular;}
+	/*select.tinynav{    border: 0; background: #fff;  color: #000;  height: 50px;  padding-left: 15px;font-weight:700;font-family: DroidSansRegular;}*/
 	.row {  min-width: 100%;}
 	.logo {  margin-top: 17px;  margin-bottom: 17px;}
 }
