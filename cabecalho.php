@@ -3,7 +3,7 @@
 <div class="row">
 	<div class="headerlogo four columns">
 		<div class="logo">
-			<a href="index.php">
+			<a href="../">
 			<h4><img class="estilo-logo" src="images/logos/logo.jpg"></h4>
 			</a>
 		</div>
@@ -12,7 +12,7 @@
 		<nav id="nav-wrap">
 		<ul id="main-menu" class="nav-bar sf-menu">
 			<li class="current">
-				<a href="index.php">HOME</a>
+				<a href="../">HOME</a>
 			</li>
 			<li>
 				<a href="destinos.php">ROTEIROS</a>

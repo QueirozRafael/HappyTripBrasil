@@ -10,7 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Detalhes Bonito-MT</title>
+<title>Happy Trip | Detalhes Bonito-MT</title>
 <link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">

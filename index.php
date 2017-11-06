@@ -7,27 +7,20 @@
 <html class="no-js" lang="pt">
 <!--<![endif]-->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!-- Set the viewport width to device width for mobile -->
-<meta name="viewport" content="width=device-width"/>
-<title>Happy Trip Brasil</title>
-<link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
-<!-- CSS Files-->
-<link rel="stylesheet" href="stylesheets/style.css">
-<link rel="stylesheet" href="stylesheets/skins/dourado.css">
-<!-- skin color -->
-<link rel="stylesheet" href="stylesheets/responsive.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width"/>
+  <title>Happy Trip</title>
 
-<link rel="stylesheet" href="stylesheets/estilo.css">
+  <!-- Scripts -->
+  <?php
+    include('scripts.php');
+  ?>
 
-<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
-<!-- IE Fix for HTML5 Tags -->
-<!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-
-<!-- Fonts awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 </head>
 
 <body>
@@ -62,35 +55,17 @@
 </div>
 
 <div class="row">
-	<div id="portofolio">
-		<!-- Destino Cabo Frio, Arraial do Cabo, Buzios -->
-    <div class="four columns category trains">
-			<h5>Cabo Frio, Arraial do Cabo, Buzios</h5>
-			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-          <div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_cabo_frio_arraial_buzios.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/cabo_frio_arraial_buzios.jpg" class="threeimage" alt=""/>
-        <p>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>01/11 à 05/11</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$580,00</span>
-    		</p>
-      </div>
-		</div>
+	<div>
 		<!-- Roteiro Bonito-MT -->
-    <div class="four columns threeportofolio category trains">
+    <div class="six columns">
 			<h5>Bonito-MT</h5>
 			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
+				<div class="portofoliothumboverlay">
+					<div class="inner">
 						<a class="projectdetail" href="detalhes_bonito.php">Saiba mais</a>
 					</div>
 				</div>
-				<img src="images/destinos/bonito_esgotado.jpg" class="threeimage" alt=""/>
+				<img src="images/destinos/bonito_esgotado.jpg" alt="Bonito-MT"/>
         <p>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>17/11/17 à 21/11/17</span><br>
@@ -100,15 +75,15 @@
       </div>
 		</div>
     <!-- Roteiro Parque Maeda -->
-		<div class="four columns threeportofolio category trains">
+		<div class="six columns category isotope-item">
 			<h5>Parque Maeda</h5>
 			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
+				<div class="portofoliothumboverlay">
+					<div class="inner">
 						<a class="projectdetail" href="detalhes_parque_maeda.php">Saiba mais</a>
 					</div>
 				</div>
-				<img src="images/destinos/parque_maeda.jpg" class="threeimage" alt=""/>
+				<img src="images/destinos/parque_maeda.jpg" alt="Parque Maeda"/>
         <p>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>26/11/17</span><br>
@@ -205,6 +180,8 @@
 <!-- JAVASCRIPTS
 ================================================== -->
 <!-- Javascript files placed here for faster loading -->
+<script src="javascripts/bootstrap/jquery.js"></script>
+<script src="javascripts/bootstrap/bootstrap.min.js"></script>
 <script src="javascripts/foundation.min.js"></script>
 <script src="javascripts/jquery.easing.1.3.js"></script>
 <script src="javascripts/elasticslideshow.js"></script>

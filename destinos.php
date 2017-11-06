@@ -10,7 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Roteiros</title>
+<title>Happy Trip | Roteiros</title>
 <link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">
@@ -54,7 +54,7 @@
 <div class="row">
 	<div id="portofolio">
 		<!-- Roteiro Cabo frio, Arraial e Búzios -->
-		<div class="four columns threeportofolio category trains">
+		<!-- <div class="four columns threeportofolio category trains">
 			<h5>Cabo Frio, Arraial do Cabo, Buzios</h5>
 			<div class="portofoliothumb">
 				<div class="portofoliothumboverlay threeoverlay">
@@ -70,7 +70,7 @@
           <span>a partir de R$580,00</span>
   			</p>
       </div>
-		</div>
+		</div> -->
 		<!-- Roteiro Bonito-MT -->
 		<div class="four columns threeportofolio category trains">
 			<h5>Bonito-MT</h5>

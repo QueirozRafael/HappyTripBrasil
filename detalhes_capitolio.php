@@ -10,7 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Detalhes Capitólio</title>
+<title>Happy Trip | Detalhes Capitólio</title>
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">
 

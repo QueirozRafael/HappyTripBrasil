@@ -10,7 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Detalhes Búzios-Reveillon</title>
+<title>Happy Trip | Detalhes Búzios-Reveillon</title>
 <link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">
@@ -130,8 +130,6 @@
 							<span>Dia livre;</span><br>
               <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
               <span>Indicações - Passeio de barco em Búzios(R$60,00 reserva antecipada)</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>12h00 - Almoço Incluso;</span><br>
               <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
               <span>20h00 - Encontro para Confraternização de Réveillon na Escuna.</span><br>
             </p>

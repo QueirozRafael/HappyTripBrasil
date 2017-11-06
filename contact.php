@@ -13,7 +13,7 @@ header('Content-Type: text/html; charset=utf-8');
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Contato</title>
+<title>Happy Trip | Contato</title>
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">
 
