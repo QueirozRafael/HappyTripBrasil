@@ -13,7 +13,7 @@ header('Content-Type: text/html; charset=utf-8');
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Pré reserva</title>
+<title>Happy Trip | Pré reserva</title>
 <link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">
@@ -229,6 +229,8 @@ header('Content-Type: text/html; charset=utf-8');
 		</div>
 	</div>
 </div>
+<p class="slide">
+</p>
 
 <!-- FOOOTER
 ================================================== -->

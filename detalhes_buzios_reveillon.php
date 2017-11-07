@@ -168,6 +168,8 @@
 		<input type="submit" id="submit" class="readmore" value="Reservar">
 	</a>
 </div>
+<p class="slide">
+</p>
 
 <!-- FOOOTER
 ================================================== -->

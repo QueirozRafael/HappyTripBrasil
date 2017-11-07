@@ -117,6 +117,8 @@ header('Content-Type: text/html; charset=utf-8');
 		</div>
 	</div>
 </div>
+<p class="slide">
+</p>
 
 <!-- FOOOTER
 ================================================== -->
