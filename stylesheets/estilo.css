@@ -185,40 +185,64 @@ input[type='submit'] {
     padding: 15px;
 }
 
-@media (max-width: 800px) {
-.estilo-logo {
-  display: none;
+@media (max-width: 320px) {
+  .ei-slider {
+    height: 180px;
+  }
 }
+@media (max-width: 375px) {
+  .ei-slider {
+    height: 180px;
+  }
+}
+@media (max-width: 768px) {
+  .ei-slider {
+    height: 350px;
+  }
+}
+@media (max-width: 800px) {
+  .estilo-logo {
+  display: none;
+  }
 
-.ei-slider-large img {
+  .ei-slider-large img {
   max-width: 100% !important;
   max-height: 100% !important;
-}
+  }
 
-.headerlogo {
+  .headerlogo {
   position: absolute;
-}
+  }
 
-.destinos {
+  .destinos {
   padding-top: 50px;
-}
+  }
 
-#subheader h5 {
+  #subheader h5 {
   font-size: 12px;
-}
+  }
 
-.logo-cadastur {
+  .logo-cadastur {
   /*width: 125px;
   padding-top: 10px;*/
   /*float: left;*/
-}
+  }
 
-.columns {
-   width: 100% !important;
- }
+  .columns {
+  width: 100% !important;
+  }
 
- .row {
+  .row {
      padding: 0;
- }
-
+  }
+}
+@media (max-width: 1024px) {
+  .ei-slider {
+    height: 500px;
+  }
+}
+@media (max-width: 1440px) {
+  .ei-slider, .ei-slider-large img {
+    height: 650px !important;
+  }
 }

@@ -94,6 +94,7 @@ MAX-WIDTH 767
 	.show-for-large,
 	.show-for-large-up,
 	.show-for-xlarge { display: none !important }
+	.ei-slider {height:260px;}
 }
 /* Small display targeting */
 @media only screen and (max-width: 767px) {
@@ -224,7 +225,8 @@ MAX-WITH 480
 	.name {display:block;}
 	.noleftmarg {padding:0px !important;}
 	.logo { margin-top: 20px;margin-bottom:0px;}
-	.ei-slider {height:260px;}
+	/*.ei-slider {height:260px;}*/
+	.ei-slider {height:215px;}
 	.responsiveslide {margin-left: 0px !important;width:100% !Important;height: 200px !important;}
 	.newsmargin{margin-left:0px;}
 	.floatright {float:none;}
@@ -259,7 +261,7 @@ SUPERFISH
 	.fitcarousel {width:81%;overflow:hidden;}
 	.textmenu { margin-top: 8px !important;}
 	#nav-wrap { margin-top: 0;}
-	select.tinynav{    border: 0; background: #b89b73;  color: #fff;  height: 50px;  padding-left: 15px;font-weight:700;font-family: DroidSansRegular;}
+	select.tinynav{    border: 0; background: #fff;  color: #b89b73;  height: 50px;  padding-left: 15px;font-weight:700;font-family: 'sans-serif';}
 	/*select.tinynav{    border: 0; background: #fff;  color: #000;  height: 50px;  padding-left: 15px;font-weight:700;font-family: DroidSansRegular;}*/
 	.row {  min-width: 100%;}
 	.logo {  margin-top: 17px;  margin-bottom: 17px;}

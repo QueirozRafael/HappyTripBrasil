@@ -60,12 +60,12 @@
     <div class="six columns">
 			<h5>Bonito-MT</h5>
 			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay">
-					<div class="inner">
-						<a class="projectdetail" href="detalhes_bonito.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/bonito_esgotado.jpg" alt="Bonito-MT"/>
+        <a href="detalhes_bonito.php">
+          <img src="images/destinos/bonito_esgotado.jpg" alt="Bonito-MT"/>
+        </a>
+        <p style="float:right;">
+          <a class="projectdetail" href="detalhes_bonito.php">Detalhes</a>
+        </p>
         <p>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>17/11/17 à 21/11/17</span><br>
@@ -76,96 +76,29 @@
 		</div>
     <!-- Roteiro Parque Maeda -->
 		<div class="six columns category isotope-item">
-			<h5>Parque Maeda</h5>
-			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay">
+      <h5>Parque Maeda</h5>
+      <div class="portofoliothumb">
+				<!-- <div class="portofoliothumboverlay">
 					<div class="inner">
 						<a class="projectdetail" href="detalhes_parque_maeda.php">Saiba mais</a>
 					</div>
-				</div>
-				<img src="images/destinos/parque_maeda.jpg" alt="Parque Maeda"/>
+				</div> -->
+        <a href="detalhes_parque_maeda.php">
+          <img src="images/destinos/parque_maeda.jpg" alt="Parque Maeda"/>
+        </a>
+			  <p style="float:right;">
+          <a class="projectdetail" href="detalhes_parque_maeda.php">Detalhes e reservas</a>
+        </p>
         <p>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>26/11/17</span><br>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$130,00</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>Day Use</span><br>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>a partir de R$130,00</span><br>
         </p>
       </div>
 		</div>
-    <!-- Roteiro Búzios-Reveillon -->
-    <!-- <div class="four columns threeportofolio category trains">
-			<h5>Búzios-Reveillon</h5>
-			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_buzios_reveillon.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/buzios_reveillon.jpeg" class="threeimage" alt=""/>
-        <p>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>29/12/17 à 01/01/18</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>Réveillon em Alto Mar - Búzios</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>Buffet completo e Open Bar</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$650,00</span>
-  			</p>
-      </div>
-		</div> -->
-    <!-- <div class="six columns category trains">
-			<h5>Explofora - Day Use</h5>
-      <div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_holambra.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/expoflora_holambra.jpg" class="threeimage" alt=""/>
-        <p>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>24/09</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>R$140,00</span><br>
-  			</p>
-      </div>
-		</div> -->
-		<!-- Project Capitólio-->
-    <!-- <div class="four columns threeportofolio category trains">
-			<h5>Capitólio</h5>
-			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_capitolio.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/capitolio.jpg" class="threeimage" alt=""/>
-        <p>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>15/09 à 17/09</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$450,00</span>
-        </p>
-      </div>
-    </div> -->
-    <!-- Project Fazenda dos Contos-->
-		<!-- <div class="four columns threeportofolio category trains">
-			<h5>Fazenda dos contos</h5>
-			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_fazenda_dos_contos.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/fazenda_contos.jpg" class="threeimage" alt=""/>
-			</div>
-			<p>
-				 <h6>a partir de R$135,00</h6>
-			</p>
-		</div> -->
 	</div>
 </div>
 <p class="slide">

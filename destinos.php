@@ -75,12 +75,12 @@
 		<div class="four columns threeportofolio category trains">
 			<h5>Bonito-MT</h5>
 			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_bonito.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/bonito_esgotado.jpg" class="threeimage" alt=""/>
+				<a href="detalhes_bonito.php">
+          <img src="images/destinos/bonito_esgotado.jpg" class="threeimage" alt="Bonito-MT"/>
+        </a>
+        <p style="float:right;">
+          <a class="projectdetail" href="detalhes_bonito.php">Detalhes</a>
+        </p>
         <p>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>17/11 à 21/11</span><br>
@@ -93,19 +93,19 @@
 		<div class="four columns threeportofolio category trains">
 			<h5>Parque Maeda</h5>
 			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_parque_maeda.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/parque_maeda.jpg" class="threeimage" alt=""/>
+				<a href="detalhes_parque_maeda.php">
+				  <img src="images/destinos/parque_maeda.jpg" class="threeimage" alt="Parque Maeda"/>
+        </a>
+        <p style="float:right;">
+          <a class="projectdetail" href="detalhes_parque_maeda.php">Detalhes e reservas</a>
+        </p>
         <p>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>26/11/17</span><br>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$130,00</span><br>
-          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>Day Use</span><br>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>a partir de R$130,00</span><br>
         </p>
       </div>
 		</div>
@@ -113,21 +113,21 @@
 		<div class="four columns threeportofolio category trains">
 			<h5>Búzios-Reveillon</h5>
 			<div class="portofoliothumb">
-				<div class="portofoliothumboverlay threeoverlay">
-					<div class="inner threedetail">
-						<a class="projectdetail" href="detalhes_buzios_reveillon.php">Saiba mais</a>
-					</div>
-				</div>
-				<img src="images/destinos/buzios_reveillon.jpeg" class="threeimage" alt=""/>
+				<a href="detalhes_buzios_reveillon.php">
+  				<img src="images/destinos/buzios_reveillon.jpeg" class="threeimage" alt="Búxios reveillon"/>
+				</a>
+			  <p style="float:right;">
+          <a class="projectdetail" href="detalhes_buzios_reveillon.php">Detalhes e reservas</a>
+        </p>
         <p>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
           <span>29/12/17 à 01/01/18</span><br>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>Réveillon em Alto Mar - Búzios</span><br>
+          <span>Réveillon em Alto Mar</span><br>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>Buffet completo e Open Bar</span><br>
+          <span>Buffet completo e Open bar</span><br>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$650,00</span>
+          <span>R$650,00</span>
   			</p>
       </div>
 		</div>
