@@ -255,7 +255,7 @@ header('Content-Type: text/html; charset=utf-8');
 		vars[hash[0]] = hash[1];
 	}
 	var destino = $("#destino");
-	var parametro = vars[hash[0]].replace(/_/g," ").replace(/%C3%BA/g, "ú").replace(/%C3%B3/g, "ó").replace(/%20/g, "-");
+	var parametro = vars[hash[0]].replace(/_/g," ").replace(/%C3%A9/g, "é").replace(/%C3%A3/g, "ã").replace(/%C3%BA/g, "ú").replace(/%C3%B3/g, "ó").replace(/%C3%AD/g,"í").replace(/%20/g, "-");
 	destino.val(parametro);
   destino.append(parametro);
 </script>

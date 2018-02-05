@@ -10,7 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Happy Trip | Detalhes Cabo Frio, Arraial do Cabo e Búzios</title>
+<title>Happy Trip | Detalhes Tríplice Carioca</title>
 <link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
 <!-- CSS Files-->
 <link rel="stylesheet" href="stylesheets/style.css">
@@ -58,7 +58,7 @@
 	<div class="six columns img_detalhes">
 		<div class="slider-wrapper theme-default">
 			<div id="slider" class="nivoSlider detailslider">
-				<img src="images/destinos/cabo_frio_arraial_buzios.jpg" data-thumb="" alt=""/>
+				<img src="images/destinos/triplice_carioca.jpg" alt="Tríplice Carioca"/>
 			</div>
 		</div>
 	</div>
@@ -66,14 +66,14 @@
 	<!-- PROJECT DESCRIPTION-->
 	<div class="six columns img_detalhes">
 		<div class="sectiontitle">
-			<h4>Cabo Frio, Arraial do Cabo e Búzios</h4>
+			<h4>Tríplice Carioca</h4>
 		</div>
 		<div>
 			<p>
-				Região dos Lagos, no litoral Norte Fluminense, é um dos destinos preferidos,
-        especialmente nos meses de férias escolares e feriados prolongados.
-        Algumas das principais cidades da região são: Cabo Frio, Búzios e Arraial do Cabo.
-        É difícil escolher as melhores praias da Região dos Lagos, uma vez por ali, a melhor opção é ir descobrindo…
+				A Tríplice Carioca é representada pelas belas praias das cidades de
+				Arraial do Cabo, Búzios e Cabo Frio que estão localizados na Região dos lagos litoral Norte Fluminense - RJ,
+				é um dos destinos preferidos pelos Turistas, especialmente nos feriados prolongados.
+				É difícil escolher as melhores praias da Região dos Lagos, uma vez por ali, a melhor opção é ir descobrindo…
 			</p>
 			<dl class="tabs">
 				<dd class="active"><a href="#simple1">Pacotes</a></dd>
@@ -87,86 +87,108 @@
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
 							<span>Transporte em Onibus de turismo;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Hospedagem - Hostel em Cabo Frio;</span><br>
+							<span>Festa na praia com DJ;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Cafe da manhã;</span><br>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Churrasco (bebidas não inclusas);</span><br>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Traslado para Arraial do Cabo e Búzios;</span><br>
+							<span>Traslado para Arraial do Cabo e Cabo Frio;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
 							<span>Passeio de Escuna em Arraial do Cabo;</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<span>Passeio de Escuna em Búzios;</span><br>
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
 							<span>Brinde Happy Trip Brasil;</span><br>
               <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-  						<span>Seguro Viagem GTA.</span><br>
+							<span>Seguro viagem GTA.</span><br>
+						</p>
+						<p>
+							<span><b>*Pacote pousada com direito a café da manhã.</b></span><br>
+							<span><b>**Pacote bangalô com banheiro coletivo.</b></span>
 						</p>
 					</div>
 				</li>
 				<li id="simple2Tab">
 					<div class="columns noleftmargin">
-						<b>Quarta-feira 01/11</b>
+						<b>Quarta-feira 30/05/2018</b>
 						<p>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Saída às 21h30 (tolerância de 30min). Metrô Palmeiras/Barra Funda, em frente a UNINOVE.
+							<span>21h00 - Encontro no Metro Barra Funda;</span><br>
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<span>21h30 - Saída para Búzios.</span>
             </p>
-            <b>Quinta-feira 02/11</b>
+            <b>Quinta-feira 31/05/2018</b>
 						<p>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>08h00 – Chegada prevista em Cabo Frio;</span><br>
+							<span>07h00 – Chegada prevista em Búzios;</span><br>
               <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>08h00 as 10h00 – Café da Manhã;</span><br>
+              <span>10h00 - Saída para passeio de Escuna em Búzios;</span><br>
               <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>Dia Livre pra conhecer as praias de Cabo Frio;</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>20h00 - Churrasco (incluso);</span><br>
+              <span>20h00 - Festa na Praia com DJ.</span><br>
             </p>
-            <b>Sexta-feira 03/11</b>
+            <b>Sexta-feira 01/06/2018</b>
 						<p>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>07h00 – Café da manhã;</span><br>
+							<span>08h30 – Saída para passeio de Escuna em Arraial do Cabo;</span><br>
               <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>09:00 – Saída para passeio de Escuna em Arraial do Cabo (incluso);</span><br>
+              <span>18:00 – Retorno para Búzios;</span><br>
               <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>19h00 - Retorno para o Hostel (Cabo Frio).</span><br>
+              <span>Noite livre.</span><br>
             </p>
-            <b>Sábado 04/11</b>
+            <b>Sábado 02/06/2018</b>
 						<p>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>07h00 – Café da manhã;</span><br>
+							<span>09h00 – Saída para conhecer Cabo Frio;</span><br>
               <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>09h00 - Saida para conhecer Búzios (opcional);</span><br>
+              <span>17h00 - Retorno para Búzios;</span><br>
               <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>17h00 Retorno para o Hostel (Cabo Frio).</span><br>
+              <span>Noite livre.</span><br>
             </p>
-						<b>Domingo 05/11</b>
+						<b>Domingo 03/06/2018</b>
 						<p>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>07h00 - Café da manhã;</span><br>
+							<span>11h30 - Inicio do embarque para São Paulo;</span><br>
               <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>(Manhã livre)</span><br>
-              <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-              <span>13h00 - Embarque para São Paulo.</span><br>
+              <span>22h30 - Chegada prevista na Barra Funda/SP.</span><br>
   					</p>
 						<p>
-							<span><b>Previsão de chegada ás 22h30 na Barra Funda (obs: a colaboração e compreensão de todos em cooperar
-								com os horários, faz com que tenhamos uma boa viagem e cheguemos cedo ao nosso destino.</b></span>
+							<span><b>*Comparecer com 30 minutos de antecedência para o Check-in.
+								(Quem não comparecer no horário mencionado será entendido como desistência da viagem,
+								sem restituição de valores).</b></span>
+						</p>
+						<p>
+							<span><b>**A colaboração e compreensão de todos em cooperar com os horários,
+								faz com que tenhamos uma boa viagem e cheguemos cedo ao nosso destino.</b></span>
+						</p>
+						<p>
+							<span><b>***Taxa portuária não inclusa(R$ 5,00).</b></span>
 						</p>
 					</div>
 				</li>
 				<li id="simple3Tab">
+				<b>Camping</b>
 				<p>
 					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-					<span>Quarto Coletivo: R$580,00 por pessoa.</span><br>
+					<span>R$500,00 por pessoa.</span><br>
+				</p>
+				<b>Bangalô</b>
+				<p>
 					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-					<span><strike>Quarto Casal: R$650,00 por pessoa.</strike></span>
+					<span>R$560,00 por pessoa.</span><br>
+				</p>
+				<b>Quarto Compartilhado</b>
+				<p>
+					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+					<span>R$680,00 por pessoa.</span><br>
+				</p>
+				<b>Quarto Casal</b>
+				<p>
+					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+					<span>R$720,00 por pessoa.</span><br>
 				</p>
 			</li>
 			</ul>
 		</div>
 	<!-- end main content-->
 	</div>
-	<a href="pre_reserva.php?destino=Cabo_Frio,_Arraial_do_Cabo,_Buzios">
+	<a href="pre_reserva.php?destino=Tríplice_Carioca">
 		<input type="submit" id="submit" class="readmore" value="Reservar">
 	</a>
 </div>

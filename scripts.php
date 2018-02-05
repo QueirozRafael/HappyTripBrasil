@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="stylesheets/style.css">
 <link rel="stylesheet" href="stylesheets/skins/dourado.css">
 
+
 <!-- CSS Skin Color -->
 <link rel="stylesheet" href="stylesheets/responsive.css">
 

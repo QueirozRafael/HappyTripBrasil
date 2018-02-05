@@ -56,46 +56,45 @@
 
 <div class="row">
 	<div>
-		<!-- Roteiro Bonito-MT -->
+		<!-- Roteiro Beto Carrero -->
     <div class="six columns">
-			<h5>Bonito-MT</h5>
+			<h5>Beto Carrero World</h5>
 			<div class="portofoliothumb">
-        <a href="detalhes_bonito.php">
-          <img src="images/destinos/bonito_esgotado.jpg" alt="Bonito-MT"/>
-        </a>
+        <a href="detalhes_beto_carrero.php">
+  				<img src="images/destinos/beto_carrero.jpg" alt="Beto Carrero"/>
+				</a>
         <p style="float:right;">
-          <a class="projectdetail" href="detalhes_bonito.php">Detalhes</a>
+          <a class="projectdetail" href="detalhes_beto_carrero.php">Detalhes e reservas</a>
         </p>
         <p>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>17/11/17 à 21/11/17</span><br>
+          <span>02/03/2018 à 05/03/2018;</span><br>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$1.500,00</span>
+          <span>Hospedagem com Café da manhã;</span><br>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>Ingresso para o Beto Carrero World (03/03/2018);</span><br>
+          <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+          <span>A partir de R$350,00.</span>
   			</p>
       </div>
 		</div>
-    <!-- Roteiro Parque Maeda -->
+    <!-- Roteiro Ponta Negra -->
 		<div class="six columns category isotope-item">
-      <h5>Parque Maeda</h5>
+      <h5>Ponta Negra</h5>
       <div class="portofoliothumb">
-				<!-- <div class="portofoliothumboverlay">
-					<div class="inner">
-						<a class="projectdetail" href="detalhes_parque_maeda.php">Saiba mais</a>
-					</div>
-				</div> -->
-        <a href="detalhes_parque_maeda.php">
-          <img src="images/destinos/parque_maeda.jpg" alt="Parque Maeda"/>
+		    <a href="detalhes_ponta_negra.php">
+          <img src="images/destinos/ponta_negra.jpg" alt="Ponta Negra"/>
         </a>
 			  <p style="float:right;">
-          <a class="projectdetail" href="detalhes_parque_maeda.php">Detalhes e reservas</a>
+          <a class="projectdetail" href="detalhes_ponta_negra.php">Detalhes e reservas</a>
         </p>
         <p>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>26/11/17</span><br>
+          <span>27/04/2018 à 01/05/2018;</span><br>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>Day Use</span><br>
+          <span>Festa na praia;</span><br>
           <img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-          <span>a partir de R$130,00</span><br>
+          <span>a partir de R$320,00.</span><br>
         </p>
       </div>
 		</div>

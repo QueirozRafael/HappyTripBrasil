@@ -72,16 +72,8 @@
 		<div>
 			<p>
 				Capitólio possui localização privilegiada pois no município a serra encontra a represa assim formando lindas
-				paisagens.
-			</p>
-			<p>
+				paisagens.<br>
 				Em destaque estão os canyons e suas cachoeiras que formam o cenários incríveis e encanta que seus visitantes.
-			</p>
-			<p>
-				Paraíso Perdido, verdadeiro patrimônio da natureza de exuberante beleza cênica, localizado em um vale cortado
-				pelo ribeirão Quebra Anzol, com "canyons", 18 piscinas naturais e 8 quedas de águas límpidas e cristalinas,
-				que correm sobre pedras de quartzito predominantemente branco, numa região de cerrado próxima e com as mesmas
-				características da Serra da Canastra.
 			</p>
 			<dl class="tabs">
 				<dd class="active"><a href="#simple1">Pacotes</a></dd>
@@ -92,23 +84,25 @@
 				<li class="active" id="simple1Tab">
 					<div class="columns noleftmargin">
 						<p>
-							<div><span><b>PACOTE QUARTO COLETIVO</b><span></div>
+							<div><span><b>TODOS OS PACOTES</b><span></div>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Quartos coletivos;</span><br>
+							<span>Hospedagem com piscina, sauna, salão de jogos, área para festas;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Transporte em ônibus, micro ônibus ou van;</span><br>
+							<span>Três cafés da manhã;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>2 Cafés da manhã;</span><br>
+							<span>Três almoços;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>1 Almoço no Domingo;</span><br>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Festa com Churrasco (incluso), (Bebidas não está incluso);</span><br>
+							<span>Dois dias de Festa com Churrasco(Bebidas não inclusos);</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
 							<span>Passeio de lancha;</span><br>
+							<ul>
+								<li><img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt=""> Cânions de Furnas;</li>
+								<li><img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt=""> Cascatinhas;</li>
+								<li><img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt=""> Vale dos Tucanos;</li>
+								<li><img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt=""> Lagoa Azul.</li>
+							</ul>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Passeio de lancha;</span><br>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Passeio pelo Paraiso Perdido;</span><br>
+							<span>Visita ao Mirante dos Cânions, Cachoeira Diquadinha, Mirante da Usina de Furnas.</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
 							<span>Seguro Viagem;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
@@ -117,62 +111,78 @@
 						<p>
 							<div><span><b>PACOTE CAMPING</b><span></div>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Camping necessário levar Barraca;</span><br>
+							<span>Necessário levar Barraca;</span><br>
+						</p>
+						<p>
+							<div><span><b>PACOTE POUSADA</b><span></div>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Transporte em ônibus, micro ônibus ou van;</span><br>
+							<span>Quarto coletivo;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>2 Café da manhã;</span><br>
+							<span>WC coletivo;</span><br>
+						</p>
+						<p>
+							<div><span><b>PACOTE PUSADA SUíTE</b><span></div>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>1 Almoço no Doningo;</span><br>
+							<span>Quarto coletivo;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Festa com Churrasco (incluso), (Bebidas não está incluso);</span><br>
+							<span>WC individual;</span><br>
+						</p>
+						<p>
+							<div><span><b>PACOTE PUSADA CASAL</b><span></div>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Passeio de lancha;</span><br>
+							<span>Quarto casal;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Passeio pelo Paraiso Perdido;</span><br>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Seguro Viagem;</span><br>
-							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Guia credenciado;</span><br>
+							<span>WC individual;</span><br>
 						</p>
 					</div>
 				</li>
 				<li id="simple2Tab">
 					<div class="columns noleftmargin">
-						<b>Sexta-feira 15/09</b>
+						<b>Sexta-feira 06/07/2018</b>
 						<p>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Embarque às 22h00. Metrô Palmeiras Barra Funda, em frente a UNINOVE.</span><br>
+							<span>22h00 - Embarque terminal Santo Amaro.</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Saída às 23h00. Tolerância de 15 minutos para a partida.</span><br>
+							<span>23h00 - Embarque terminal Barra Funda(em frente a UNINOVE).</span><br>
 						</p>
-						<b>Sábado 16/09</b>
+						<b>Sábado 07/07/2018</b>
 						<p>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
 							<span>Café da manhã;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Mirante de furnas;</span><br>
+							<span>Passeio de lancha;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Paraíso Perdido;</span><br>
+							<span>Almoço;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Almoço Não Incluso (Paraiso Perdido);</span><br>
+							<span>Mirante da Usina Furnas;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Festa com churrasco.</span><br>
+							<span>Festa com churrasco(Bebidas não inclusas);</span><br>
 						</p>
-						<b>Domingo 17/09</b>
+						<b>Domingo 08/07/2018</b>
 						<p>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
 							<span>Café da manhã;</span><br>
-								<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-								<span>Passeio de lancha;</span><br>
-								<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-								<span>Mirante dos Canions;</span><br>
-								<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-								<span>Almoço;</span><br>
-								<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-								<span>Preparar para volta;</span><br>
 							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-							<span>Retorno para São Paulo.</span><br>
+							<span>Mirante dos Cânions;</span><br>
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<span>Cachoeira Diquadinha;</span><br>
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<span>Almoço;</span><br>
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<span>Tarde livre;</span><br>
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<span>Festa com churrasco(Bebidas não inclusas);</span><br>
+						</p>
+						<b>Segunda 09/07/2018</b>
+						<p>
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<span>Café da manhã;</span><br>
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<span>Dia livre;</span><br>
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<span>Almoço;</span><br>
+							<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+							<span>Retorno para São Paulo-SP;</span><br>
 						</p>
 						<p>
 							<span><b>*No embarque será obrigatório apresentar o documento de identidade original,
@@ -183,21 +193,27 @@
 					</div>
 				</li>
 				<li id="simple3Tab">
+					<p>
+						<div><span><b>PACOTE CAMPING</b><span></div>
+						<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+						<span>R$530,00/pessoa;</span><br>
+					</p>
 				<p>
-					<div><span><b>PACOTE QUARTO COLETIVO</b><span></div>
+					<div><span><b>PACOTE POUSADA</b><span></div>
 					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-					<span>Depósito/Transferência - R$ 500,00 [ por pessoa ];</span><br>
-					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-					<span>Cartão de Crédito(PagSeguro) - R$535,00 [ por pessoa ].</span><br>
+					<span>R$595,00/pessoa;</span><br>
 				</p>
 				<p>
-					<div><span><b>PACOTE CAMPING</b><span></div>
+					<div><span><b>PACOTE POUSADA SUÍTE</b><span></div>
 					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-					<span>Depósito/Transferência - R$450,00 [ por pessoa ];</span><br>
-					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
-					<span>Cartão de Crédito(PagSeguro) R$482,00 [ por pessoa ].</span><br>
+					<span><strike>R$630,00/pessoa;</strike></span><br>
 				</p>
 				<p>
+					<div><span><b>PACOTE POUSADA CASAL</b><span></div>
+					<img src="http://www.wowthemes.net/demo/studiofrancesca/images/check.png" alt="">
+					<span><strike>R$690,00/pessoa;</strike></span><br>
+				</p>
+				<!-- <p>
 					<span><b><i>* Para pagamento com cartão, pedir link do pague seguro por e-mail.</i></b></span>
 				</p>
 					<span><b><i>*Pagamento completo através de Cartão de Crédito existe um acréscimo de 7% da taxa + o juros do PagSeguro.
@@ -206,7 +222,7 @@
 				<p>
 					<span><b><i>* Para manter sua reserva será necessário o pagamento de um sinal mínimo de 20% do valor do pacote,
 						no prazo de 10 dias após a resposta por e-mail, e o valor restante tem que ser quitado até 20 dias antes do evento.</i></b></span>
-				</p>
+				</p> -->
 			</li>
 			</ul>
 		</div>

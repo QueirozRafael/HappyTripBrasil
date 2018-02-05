@@ -72,15 +72,11 @@ header('Content-Type: text/html; charset=utf-8');
   <h5>Telefone</h5>
   <div class="left" style="margin-left:0">
     <h6>Junior</h6>
-    <p>
-      <i class="fa fa-whatsapp fa"></i>(11) 98181-6252
-    </p>
+    <i class="fa fa-whatsapp fa"></i>(11) 98181-6252
   </div>
-  <div class="left">
+  <div class="left" style="margin-left:50px">
     <h6>Cibele</h6>
-    <p>
-      <i class="fa fa-whatsapp fa"></i>(11) 98779-7735
-    </p>
+    <i class="fa fa-whatsapp fa"></i>(11) 98779-7735
   </div>
 		<div class="clear">
       <div class="sucesso alerta done">
@@ -93,6 +89,7 @@ header('Content-Type: text/html; charset=utf-8');
 				 Desculpe, falha ao enviar e-mail! Por favor, tente mais tarde. <a href="" class="close">x</a>
 				</div>
 			</div>
+      <br>
 			<h5>Mensagem</h5>
 			<form id="contactform">
         <div class="form">

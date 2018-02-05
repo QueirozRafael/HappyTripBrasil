@@ -12,8 +12,11 @@
 			</div>
 		</li> -->
 		<li>
-			<a href="detalhes_buzios_reveillon.php">
-				<img src="images/destinos/buzios_reveillon.jpeg" alt="image02" class="responsiveslide">
+			<img src="images/destaques/happy_trip.jpg" alt="Happy Trip">
+		</li>
+		<li>
+			<a href="detalhes_ponta_negra.php">
+				<img src="images/destinos/ponta_negra.jpg" alt="Ponta Negra">
 			</a>
 			<div class="ei-title">
 				<!-- <h2>Apenas 5 vagas</h2> -->
@@ -23,11 +26,11 @@
 	</ul>
 
 	<!-- Sliders-thumbs -->
-	<!-- <ul class="ei-slider-thumbs">
+	<ul class="ei-slider-thumbs">
 		<li class="ei-slider-element">Current</li>
-		<li><a href="#">Slide 1</a><img src="images/destinos/cabo_frio_arraial_buzios.jpg" class="slideshowthumb" alt="thumb01"/></li>
-		<li><a href="#">Slide 2</a><img src="images/destinos/bonito.jpg" class="slideshowthumb" alt="thumb02"/></li>
-	</ul> -->
+		<li><a href="#">Slide 1</a><img src="images/destaques/happy_trip.jpg" class="slideshowthumb" alt="Happy Trip"/></li>
+		<li><a href="#">Slide 2</a><img src="images/destinos/ponta_negra.jpg" class="slideshowthumb" alt="Ponta Negra"/></li>
+	</ul>
 </div>
 <div class="minipause">
 </div>
