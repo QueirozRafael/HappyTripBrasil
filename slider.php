@@ -12,11 +12,17 @@
 			</div>
 		</li> -->
 		<li>
-			<img src="images/destaques/happy_trip.jpg" alt="Happy Trip">
-		</li>
-		<li>
 			<a href="detalhes_ponta_negra.php">
 				<img src="images/destinos/ponta_negra.jpg" alt="Ponta Negra">
+			</a>
+			<div class="ei-title">
+				<!-- <h2>Apenas 5 vagas</h2> -->
+				<!-- <h3>últimas 5 vagas</h3> -->
+			</div>
+		</li>
+		<li>
+			<a href="detalhes_sao_thome.php">
+				<img src="images/destinos/sao_thome.jpg" alt="Ponta Negra">
 			</a>
 			<div class="ei-title">
 				<!-- <h2>Apenas 5 vagas</h2> -->

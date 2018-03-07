@@ -13,15 +13,11 @@ header('Content-Type: text/html; charset=utf-8');
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
-<title>Contato</title>
-<!-- CSS Files-->
-<link rel="stylesheet" href="stylesheets/style.css">
-
-<link rel="stylesheet" href="stylesheets/skins/dourado.css">
-<!-- skin color -->
-<link rel="stylesheet" href="stylesheets/responsive.css">
-
-<link rel="stylesheet" href="stylesheets/estilo.css">
+<title>Happy Trip | Fotos</title>
+<?php
+    include("scripts.php");
+?>
+<link rel="stylesheet" href="stylesheets/pictures.css">
 <!-- IE Fix for HTML5 Tags -->
 <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -31,6 +27,7 @@ header('Content-Type: text/html; charset=utf-8');
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <link rel="stylesheet" href="stylesheets/msg_aguarde.css">
+
 </head>
 
 <body>
@@ -58,11 +55,40 @@ header('Content-Type: text/html; charset=utf-8');
 <!-- CONTENT
 ================================================== -->
   <div class="row">
-    <!-- GOOGLE MAP IFRAME -->
-  	<div class="twelve columns">
-  		<iframe target="_blank" width="400" height="200" src="" frameborder="0" allowfullscreen>
-  		</iframe>
-  	</div>
+    <div class="center">
+      <div class="gallery">
+        <figure>
+          <a target="_blank" href="https://www.facebook.com/pg/happytripbrasil/photos/?tab=album&album_id=700880003441528">
+            <figcaption>Reveillon em Búzios</figcaption>
+            <img src="images/fotos/buzios.jpg" alt="Búzios">
+          </a>
+        </figure>
+      </div>
+      <div class="gallery">
+        <figure>
+          <a target="_blank" href="https://www.facebook.com/pg/happytripbrasil/photos/?tab=album&album_id=686395331556662">
+            <figcaption>Bonito 2ª edição</figcaption>
+            <img src="images/fotos/bonito.jpg" alt="Bonito">
+          </a>
+        </figure>
+      </div>
+      <div class="gallery">
+        <figure>
+          <a target="_blank" href="https://www.facebook.com/pg/happytripbrasil/photos/?tab=album&album_id=675588742637321">
+            <figcaption>Cabo Frio, Búzios e Arraial</figcaption>
+            <img src="images/fotos/cabo_frio.jpg" alt="Cabo Frio, Búzios e Arraial">
+          </a>
+        </figure>
+      </div>
+      <div class="gallery">
+        <figure>
+          <a target="_blank" href="https://www.facebook.com/pg/happytripbrasil/photos/?tab=album&album_id=595992837263579">
+            <figcaption>Capitólio</figcaption>
+            <img src="images/fotos/capitolio.jpg" alt="Capitólio">
+          </a>
+        </figure>
+      </div>
+    </div>
   </div>
 
   <!-- FOOOTER
@@ -75,6 +101,7 @@ header('Content-Type: text/html; charset=utf-8');
   ================================================== -->
   <!-- Javascript files placed here for faster loading -->
   <script src="javascripts/jquery.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="javascripts/foundation.min.js"></script>
   <script src="javascripts/formvalidation.js"></script>
   <script src="javascripts/jquery.cycle.js"></script>

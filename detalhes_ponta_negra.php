@@ -11,22 +11,9 @@
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
 <title>Happy Trip | Detalhes Ponta Negra</title>
-<link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
-<!-- CSS Files-->
-<link rel="stylesheet" href="stylesheets/style.css">
-
-<link rel="stylesheet" href="stylesheets/skins/dourado.css">
-<!-- skin color -->
-<link rel="stylesheet" href="stylesheets/responsive.css">
-
-<link rel="stylesheet" href="stylesheets/estilo.css">
-<!-- IE Fix for HTML5 Tags -->
-<!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-
-<!-- Fonts awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<?php
+    include("scripts.php");
+?>
 </head>
 
 <body>
@@ -59,9 +46,11 @@
 		<div class="slider-wrapper theme-default">
 			<div id="slider" class="nivoSlider detailslider">
 				<img src="images/destinos/ponta_negra.jpg" alt="Ponta Negra"/>
+        <img src="images/destinos/ponta_negra_2.jpg" alt="Ponta Negra"/>
+        <img src="images/destinos/ponta_negra_3.png" alt="Ponta Negra"/>
 			</div>
 		</div>
-	</div>
+  </div>
 
 	<!-- PROJECT DESCRIPTION-->
 	<div class="six columns img_detalhes">
@@ -191,6 +180,8 @@
 ================================================== -->
 <!-- Javascript files placed here for faster loading -->
 <!-- Javascript files placed here for faster loading -->
+<script src="javascripts/jquery.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="javascripts/foundation.min.js"></script>
 <script src="javascripts/jquery.cycle.js"></script>
 <script src="javascripts/app.js"></script>

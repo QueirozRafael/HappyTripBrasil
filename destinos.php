@@ -11,18 +11,18 @@
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
 <title>Happy Trip | Roteiros</title>
-<link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
-<!-- CSS Files-->
-<link rel="stylesheet" href="stylesheets/style.css">
-<link rel="stylesheet" href="stylesheets/skins/dourado.css">
-<!-- skin color -->
-<link rel="stylesheet" href="stylesheets/responsive.css">
-
-<link rel="stylesheet" href="stylesheets/estilo.css">
-<!-- IE Fix for HTML5 Tags -->
-<!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+<?php
+    include("scripts.php");
+?>
+<style media="screen">
+    h5 {
+      /* background-color: #b89b73; */
+      background-color: #d6d6d6;
+      color: #000;
+      padding: 15px;
+      margin-bottom: 0;
+    }
+  </style>
 </head>
 
 <body>
@@ -60,7 +60,7 @@
         <a href="detalhes_beto_carrero.php">
           <img src="images/destinos/beto_carrero.jpg" alt="Beto Carrero"/>
         </a>
-        <p style="float:right;">
+        <p style="float:right;padding-top:5px">
           <a class="projectdetail" href="detalhes_beto_carrero.php">Detalhes e reservas</a>
         </p>
         <p>
@@ -82,7 +82,7 @@
 		    <a href="detalhes_ponta_negra.php">
           <img src="images/destinos/ponta_negra.jpg" alt="Ponta Negra"/>
         </a>
-			  <p style="float:right;">
+			  <p style="float:right;padding-top:5px">
           <a class="projectdetail" href="detalhes_ponta_negra.php">Detalhes e reservas</a>
         </p>
         <p>
@@ -102,7 +102,7 @@
         <a href="detalhes_campos_jordao.php">
           <img src="images/destinos/campos_jordao.jpg" alt="Campos de Jordão"/>
         </a>
-        <p style="float:right;">
+        <p style="float:right;padding-top:5px">
           <a class="projectdetail" href="detalhes_campos_jordao.php">Detalhes e reservas</a>
         </p>
         <p>
@@ -124,7 +124,7 @@
 		    <a href="detalhes_triplice_carioca.php">
           <img src="images/destinos/triplice_carioca.jpg" alt="Tríplice Carioca"/>
         </a>
-			  <p style="float:right;">
+			  <p style="float:right;padding-top:5px">
           <a class="projectdetail" href="detalhes_triplice_carioca.php">Detalhes e reservas</a>
         </p>
         <p>
@@ -148,7 +148,7 @@
         <a href="detalhes_capitolio.php">
           <img src="images/destinos/capitolio.jpg" alt="Campos de Jordão"/>
         </a>
-        <p style="float:right;">
+        <p style="float:right;padding-top:5px">
           <a class="projectdetail" href="detalhes_capitolio.php">Detalhes e reservas</a>
         </p>
         <p>
@@ -170,7 +170,7 @@
         <a href="detalhes_sao_thome.php">
           <img src="images/destinos/sao_thome.jpg" alt="Campos de Jordão"/>
         </a>
-        <p style="float:right;">
+        <p style="float:right;padding-top:5px">
           <a class="projectdetail" href="detalhes_sao_thome.php">Detalhes e reservas</a>
         </p>
         <p>
@@ -201,6 +201,8 @@
 <!-- JAVASCRIPTS
 ================================================== -->
 <!-- Javascript files placed here for faster loading -->
+<script src="javascripts/jquery.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="javascripts/foundation.min.js"></script>
 <script src="javascripts/jquery.cycle.js"></script>
 <script src="javascripts/app.js"></script>
@@ -210,9 +212,9 @@
 <script src="javascripts/hoverIntent.js"></script>
 <script src="javascripts/superfish.js"></script>
 <script src="javascripts/responsivemenu.js"></script>
-<script src="javascripts/jquery.tweet.js"></script>
+<!-- <script src="javascripts/jquery.tweet.js"></script> -->
 <!-- <script src="javascripts/jquery.isotope.min.js"></script>
 <script src="javascripts/jquery.prettyPhoto.js"></script> -->
-<script src="javascripts/custom.js"></script>
+<!-- <script src="javascripts/custom.js"></script> -->
 </body>
 </html>

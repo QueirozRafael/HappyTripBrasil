@@ -13,6 +13,7 @@ require_once('class.smtp.php');
 $quantidade_passageiro = ($_GET['quantidade']) ? $_GET['quantidade'] : $_POST['quantidade'];
 $destino = ($_GET['destino']) ? utf8_decode($_GET['destino']) : utf8_decode($_POST['destino']);
 
+$pacote = ($_GET['pacote']) ? utf8_decode($_GET['pacote']) : utf8_decode($_POST['pacote']);
 $name = ($_GET['name']) ? utf8_decode($_GET['name']) : utf8_decode($_POST['name']);
 $email = ($_GET['email']) ? utf8_decode($_GET['email']) : utf8_decode($_POST['email']);
 $doc = ($_GET['doc']) ? utf8_decode($_GET['doc']) : utf8_decode($_POST['doc']);
@@ -20,6 +21,7 @@ $doc = ($_GET['doc']) ? utf8_decode($_GET['doc']) : utf8_decode($_POST['doc']);
 $nasc = ($_GET['nasc']) ? utf8_decode($_GET['nasc']) : utf8_decode($_POST['nasc']);
 
 if($quantidade_passageiro > 1) {
+	$pacote2 = ($_GET['pacote2']) ? utf8_decode($_GET['pacote2']) : utf8_decode($_POST['pacote2']);
 	$name2 = ($_GET['name2']) ? utf8_decode($_GET['name2']) : utf8_decode($_POST['name2']);
 	$email2 = ($_GET['email2']) ? utf8_decode($_GET['email2']) : utf8_decode($_POST['email2']);
 	$doc2 = ($_GET['doc2']) ? utf8_decode($_GET['doc2']) : utf8_decode($_POST['doc2']);
@@ -27,6 +29,7 @@ if($quantidade_passageiro > 1) {
 }
 
 if($quantidade_passageiro > 2) {
+	$pacote3 = ($_GET['pacote3']) ? utf8_decode($_GET['pacote3']) : utf8_decode($_POST['pacote3']);
 	$name3 = ($_GET['name3']) ? utf8_decode($_GET['name3']) : utf8_decode($_POST['name3']);
 	$email3 = ($_GET['email3']) ? utf8_decode($_GET['email3']) : utf8_decode($_POST['email3']);
 	$doc3 = ($_GET['doc3']) ? utf8_decode($_GET['doc3']) : utf8_decode($_POST['doc3']);
@@ -34,6 +37,7 @@ if($quantidade_passageiro > 2) {
 }
 
 if($quantidade_passageiro > 3) {
+	$pacote = ($_GET['pacote4']) ? utf8_decode($_GET['pacote4']) : utf8_decode($_POST['pacote4']);
 	$name4 = ($_GET['name4']) ? utf8_decode($_GET['name4']) : utf8_decode($_POST['name4']);
 	$email4 = ($_GET['email4']) ? utf8_decode($_GET['email4']) : utf8_decode($_POST['email4']);
 	$doc4 = ($_GET['doc4']) ? utf8_decode($_GET['doc4']) : utf8_decode($_POST['doc4']);
@@ -41,6 +45,7 @@ if($quantidade_passageiro > 3) {
 }
 
 if($quantidade_passageiro > 4) {
+	$pacote = ($_GET['pacote5']) ? utf8_decode($_GET['pacote5']) : utf8_decode($_POST['pacote5']);
 	$name5 = ($_GET['name5']) ? utf8_decode($_GET['name5']) : utf8_decode($_POST['name5']);
 	$email5 = ($_GET['email5']) ? utf8_decode($_GET['email5']) : utf8_decode($_POST['email5']);
 	$doc5 = ($_GET['doc5']) ? utf8_decode($_GET['doc5']) : utf8_decode($_POST['doc5']);
@@ -51,6 +56,7 @@ if($quantidade_passageiro > 4) {
 if ($_POST) $post=1;
 
 //Simple server side validation for POST data, of course, you should validate the email
+if (!$pacote) $errors[count($errors)] = 'Please enter your package.';
 if (!$name) $errors[count($errors)] = 'Please enter your name.';
 if (!$email) $errors[count($errors)] = 'Please enter your email.';
 if (!$doc) $errors[count($errors)] = 'Please enter your cpf.';
@@ -58,31 +64,35 @@ if (!$doc) $errors[count($errors)] = 'Please enter your cpf.';
 if (!$nasc) $errors[count($errors)] = 'Please enter your date.';
 
 if($quantidade_passageiro == 2) {
-	if (!$name2) $errors[count($errors)] = 'Please enter your name2.';
-	if (!$email2) $errors[count($errors)] = 'Please enter your email2.';
-	if (!$doc2) $errors[count($errors)] = 'Please enter your cpf2.';
-	if (!$nasc2) $errors[count($errors)] = 'Please enter your date2.';
+	if (!$pacote2) $errors[count($errors)] = 'Please enter your package.';
+	if (!$name2) $errors[count($errors)] = 'Please enter your name.';
+	if (!$email2) $errors[count($errors)] = 'Please enter your email.';
+	if (!$doc2) $errors[count($errors)] = 'Please enter your cpf.';
+	if (!$nasc2) $errors[count($errors)] = 'Please enter your date.';
 }
 
 if($quantidade_passageiro == 3) {
-	if (!$name3) $errors[count($errors)] = 'Please enter your name2.';
-	if (!$email3) $errors[count($errors)] = 'Please enter your email2.';
-	if (!$doc3) $errors[count($errors)] = 'Please enter your cpf2.';
-	if (!$nasc3) $errors[count($errors)] = 'Please enter your date2.';
+	if (!$pacote3) $errors[count($errors)] = 'Please enter your package.';
+	if (!$name3) $errors[count($errors)] = 'Please enter your name.';
+	if (!$email3) $errors[count($errors)] = 'Please enter your email.';
+	if (!$doc3) $errors[count($errors)] = 'Please enter your cpf.';
+	if (!$nasc3) $errors[count($errors)] = 'Please enter your date.';
 }
 
 if($quantidade_passageiro == 4) {
-	if (!$name4) $errors[count($errors)] = 'Please enter your name2.';
-	if (!$email4) $errors[count($errors)] = 'Please enter your email2.';
-	if (!$doc4) $errors[count($errors)] = 'Please enter your cpf2.';
-	if (!$nasc4) $errors[count($errors)] = 'Please enter your date2.';
+	if (!$pacote4) $errors[count($errors)] = 'Please enter your package.';
+	if (!$name4) $errors[count($errors)] = 'Please enter your name.';
+	if (!$email4) $errors[count($errors)] = 'Please enter your email.';
+	if (!$doc4) $errors[count($errors)] = 'Please enter your cpf.';
+	if (!$nasc4) $errors[count($errors)] = 'Please enter your date.';
 }
 
 if($quantidade_passageiro == 5) {
-	if (!$name5) $errors[count($errors)] = 'Please enter your name2.';
-	if (!$email5) $errors[count($errors)] = 'Please enter your email2.';
-	if (!$doc5) $errors[count($errors)] = 'Please enter your cpf2.';
-	if (!$nasc5) $errors[count($errors)] = 'Please enter your date2.';
+	if (!$pacote5) $errors[count($errors)] = 'Please enter your package.';
+	if (!$name5) $errors[count($errors)] = 'Please enter your name.';
+	if (!$email5) $errors[count($errors)] = 'Please enter your email.';
+	if (!$doc5) $errors[count($errors)] = 'Please enter your cpf.';
+	if (!$nasc5) $errors[count($errors)] = 'Please enter your date.';
 }
 
 //if the errors array is empty, send the mail
@@ -99,11 +109,13 @@ if (!$errors) {
 	if($quantidade_passageiro == 2) {
 		$message =  'Destino: ' . $destino . '<br/><br/>
 								===========Passageiro 1===========<br/>
+								Pacote: ' . $pacote . '<br/>
 								Nome: ' . $name . '<br/>
 			       		Email: ' . $email . '<br/>
 	              Documento: ' . $doc . '<br/>
 	              Nascimento: ' . date('d/m/Y',strtotime($nasc)) . '<br/><br/>
 							  ===========Passageiro 2===========<br/>
+								Pacote: ' . $pacote2 . '<br/>
 							  Nome: ' . $name2 . '<br/>
 			       		Email: ' . $email2 . '<br/>
 	              Documento: ' . $doc2 . '<br/>
@@ -112,16 +124,19 @@ if (!$errors) {
 	else if($quantidade_passageiro == 3) {
 		$message = 'Destino: ' . $destino . '<br/><br/>
 								===========Passageiro 1===========<br/>
+								Pacote: ' . $pacote . '<br/>
 								Nome: ' . $name . '<br/>
 			       		Email: ' . $email . '<br/>
 	              Documento: ' . $doc . '<br/>
 	              Nascimento: ' . date('d/m/Y',strtotime($nasc)) . '<br/><br/>
 							  ===========Passageiro 2===========<br/>
+								Pacote: ' . $pacote2 . '<br/>
 							  Nome: ' . $name2 . '<br/>
 			       		Email: ' . $email2 . '<br/>
 	              Documento: ' . $doc2 . '<br/>
 	              Nascimento: ' . date('d/m/Y',strtotime($nasc2)) . '<br/><br/>
 								===========Passageiro 3===========<br/>
+								Pacote: ' . $pacote3 . '<br/>
 							  Nome: ' . $name3 . '<br/>
 			       		Email: ' . $email3 . '<br/>
 	              Documento: ' . $doc3 . '<br/>
@@ -130,21 +145,25 @@ if (!$errors) {
 	else if($quantidade_passageiro == 4) {
 		$message = 'Destino: ' . $destino . '<br/><br/>
 								===========Passageiro 1===========<br/>
+								Pacote: ' . $pacote . '<br/>
 								Nome: ' . $name . '<br/>
 			       		Email: ' . $email . '<br/>
 	              Documento: ' . $doc . '<br/>
 	              Nascimento: ' . date('d/m/Y',strtotime($nasc)) . '<br/><br/>
 							  ===========Passageiro 2===========<br/>
+								Pacote: ' . $pacote2 . '<br/>
 							  Nome: ' . $name2 . '<br/>
 			       		Email: ' . $email2 . '<br/>
 	              Documento: ' . $doc2 . '<br/>
 	              Nascimento: ' . date('d/m/Y',strtotime($nasc2)) . '<br/><br/>
 								===========Passageiro 3===========<br/>
+								Pacote: ' . $pacote3 . '<br/>
 							  Nome: ' . $name3 . '<br/>
 			       		Email: ' . $email3 . '<br/>
 	              Documento: ' . $doc3 . '<br/>
 	              Nascimento: ' . date('d/m/Y',strtotime($nasc3)) . '<br/><br/>
 							  ===========Passageiro 4===========<br/>
+								Pacote: ' . $pacote4 . '<br/>
 							  Nome: ' . $name4 . '<br/>
 			       		Email: ' . $email4 . '<br/>
 	              Documento: ' . $doc4 . '<br/>
@@ -153,26 +172,31 @@ if (!$errors) {
 	else if($quantidade_passageiro == 5) {
 		$message = 'Destino: ' . $destino . '<br/><br/>
 								===========Passageiro 1===========<br/>
+								Pacote: ' . $pacote . '<br/>
 								Nome: ' . $name . '<br/>
 			       		Email: ' . $email . '<br/>
 	              Documento: ' . $doc . '<br/>
 	              Nascimento: ' . date('d/m/Y',strtotime($nasc)) . '<br/><br/>
 							  ===========Passageiro 2===========<br/>
+								Pacote: ' . $pacote2 . '<br/>
 							  Nome: ' . $name2 . '<br/>
 			       		Email: ' . $email2 . '<br/>
 	              Documento: ' . $doc2 . '<br/>
 	              Nascimento: ' . date('d/m/Y',strtotime($nasc2)) . '<br/><br/>
 								===========Passageiro 3===========<br/>
+								Pacote: ' . $pacote3 . '<br/>
 							  Nome: ' . $name3 . '<br/>
 			       		Email: ' . $email3 . '<br/>
 	              Documento: ' . $doc3 . '<br/>
 	              Nascimento: ' . date('d/m/Y',strtotime($nasc3)) . '<br/><br/>
 							  ===========Passageiro 4===========<br/>
+								Pacote: ' . $pacote4 . '<br/>
 							  Nome: ' . $name4 . '<br/>
 			       		Email: ' . $email4 . '<br/>
 	              Documento: ' . $doc4 . '<br/>
 	              Nascimento: ' . date('d/m/Y',strtotime($nasc4)) . '<br/><br/>
 							  ===========Passageiro 5===========<br/>
+								Pacote: ' . $pacote5 . '<br/>
 							  Nome: ' . $name5 . '<br/>
 			       		Email: ' . $email5 . '<br/>
 	              Documento: ' . $doc5 . '<br/>
@@ -181,6 +205,7 @@ if (!$errors) {
 	else {
 		$message = 'Destino: ' . $destino . '<br/><br/>
 								===========Passageiro 1===========<br/>
+								Pacote: ' . $pacote . '<br/>
 								Nome: ' . $name . '<br/>
 			       		Email: ' . $email . '<br/>
 	              Documento: ' . $doc . '<br/>

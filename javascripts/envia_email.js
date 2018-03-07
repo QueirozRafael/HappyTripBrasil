@@ -8,26 +8,31 @@
 
       var destino = $('#destino').val()
 
+      var pacote = $("#pacote").val();
       var nome = $("#nome").val();
       var email = $("#email").val();
       var doc = $("#doc").val();
       var nasc = $('#data_nasc').val();
 
+      var pacote2 = $("#pacote2").val();
       var nome2 = $("#nome2").val();
       var email2 = $("#email2").val();
       var doc2 = $("#doc2").val();
       var nasc2 = $('#data_nasc2').val();
 
+      var pacote3 = $("#pacote3").val();
       var nome3 = $("#nome3").val();
       var email3 = $("#email3").val();
       var doc3 = $("#doc3").val();
       var nasc3 = $('#data_nasc3').val();
 
+      var pacote4 = $("#pacote4").val();
       var nome4 = $("#nome4").val();
       var email4 = $("#email4").val();
       var doc4 = $("#doc4").val();
       var nasc4 = $('#data_nasc4').val();
 
+      var pacote5 = $("#pacote5").val();
       var nome5 = $("#nome5").val();
       var email5 = $("#email5").val();
       var doc5 = $("#doc5").val();
@@ -42,6 +47,7 @@
           destino: destino,
 
           // passageiro 1
+          pacote: pacote,
           name: nome,
           email: email,
           doc: doc,
@@ -49,6 +55,7 @@
           nasc: nasc,
 
           // passageiro 2
+          pacote2: pacote2,
           name2: nome2,
           email2: email2,
           doc2: doc2,
@@ -62,6 +69,7 @@
           destino: destino,
 
           // passageiro 1
+          pacote: pacote,
           name: nome,
           email: email,
           doc: doc,
@@ -69,12 +77,14 @@
           nasc: nasc,
 
           // passageiro 2
+          pacote2: pacote2,
           name2: nome2,
           email2: email2,
           doc2: doc2,
           nasc2: nasc2,
 
           // passageiro 3
+          pacote3: pacote3,
           name3: nome3,
           email3: email3,
           doc3: doc3,
@@ -88,6 +98,7 @@
           destino: destino,
 
           // passageiro 1
+          pacote: pacote,
           name: nome,
           email: email,
           doc: doc,
@@ -95,18 +106,21 @@
           nasc: nasc,
 
           // passageiro 2
+          pacote2: pacote2,
           name2: nome2,
           email2: email2,
           doc2: doc2,
           nasc2: nasc2,
 
           // passageiro 3
+          pacote3: pacote3,
           name3: nome3,
           email3: email3,
           doc3: doc3,
           nasc3: nasc3,
 
           // passageiro 4
+          pacote4: pacote4,
           name4: nome4,
           email4: email4,
           doc4: doc4,
@@ -120,6 +134,7 @@
           destino: destino,
 
           // passageiro 1
+          pacote: pacote,
           name: nome,
           email: email,
           doc: doc,
@@ -127,24 +142,28 @@
           nasc: nasc,
 
           // passageiro 2
+          pacote2: pacote2,
           name2: nome2,
           email2: email2,
           doc2: doc2,
           nasc2: nasc2,
 
           // passageiro 3
+          pacote3: pacote3,
           name3: nome3,
           email3: email3,
           doc3: doc3,
           nasc3: nasc3,
 
           // passageiro 4
+          pacote4: pacote4,
           name4: nome4,
           email4: email4,
           doc4: doc4,
           nasc4: nasc4,
 
           // passageiro 5
+          pacote5: pacote5,
           name5: nome5,
           email5: email5,
           doc5: doc5,
@@ -158,6 +177,7 @@
           destino: destino,
 
           // passageiro 1
+          pacote: pacote,
           name: nome,
           email: email,
           doc: doc,

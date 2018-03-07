@@ -11,16 +11,19 @@
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width"/>
   <title>Happy Trip</title>
-
   <!-- Scripts -->
   <?php
     include('scripts.php');
   ?>
-
-  <!-- IE Fix for HTML5 Tags -->
-  <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+  <style media="screen">
+    .subtitulo {
+      /* background-color: #b89b73; */
+      background-color: #d6d6d6;
+      color: #000;
+      padding: 15px;
+      margin-bottom: 0;
+    }
+  </style>
 </head>
 
 <body>
@@ -46,7 +49,7 @@
 		<div class="twelve columns">
 			<p class="center">
 				 <h4>Roteiros em Destaque</h4>
-				 <h5><a href="destinos.php">clique aqui e veja agenda completa</a></h5>
+				 <h5><a class="destaque" href="destinos.php">clique aqui e veja agenda completa</a></h5>
 			</p>
 		</div>
 	</div>
@@ -58,12 +61,12 @@
 	<div>
 		<!-- Roteiro Beto Carrero -->
     <div class="six columns">
-			<h5>Beto Carrero World</h5>
+			<h5 class="subtitulo">Beto Carrero World</h5>
 			<div class="portofoliothumb">
         <a href="detalhes_beto_carrero.php">
   				<img src="images/destinos/beto_carrero.jpg" alt="Beto Carrero"/>
 				</a>
-        <p style="float:right;">
+        <p style="float:right;padding-top:5px">
           <a class="projectdetail" href="detalhes_beto_carrero.php">Detalhes e reservas</a>
         </p>
         <p>
@@ -80,12 +83,12 @@
 		</div>
     <!-- Roteiro Ponta Negra -->
 		<div class="six columns category isotope-item">
-      <h5>Ponta Negra</h5>
+      <h5 class="subtitulo">Ponta Negra</h5>
       <div class="portofoliothumb">
 		    <a href="detalhes_ponta_negra.php">
           <img src="images/destinos/ponta_negra.jpg" alt="Ponta Negra"/>
         </a>
-			  <p style="float:right;">
+			  <p style="float:right;padding-top:5px">
           <a class="projectdetail" href="detalhes_ponta_negra.php">Detalhes e reservas</a>
         </p>
         <p>
@@ -113,7 +116,7 @@
 ================================================== -->
 <!-- Javascript files placed here for faster loading -->
 <script src="javascripts/bootstrap/jquery.js"></script>
-<script src="javascripts/bootstrap/bootstrap.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="javascripts/foundation.min.js"></script>
 <script src="javascripts/jquery.easing.1.3.js"></script>
 <script src="javascripts/elasticslideshow.js"></script>

@@ -14,24 +14,9 @@ header('Content-Type: text/html; charset=utf-8');
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width"/>
 <title>Happy Trip | Pré reserva</title>
-<link href="images/logos/logo.jpg" rel="Icon" type="image/jpg" hreflang="pt-pt">
-<!-- CSS Files-->
-<link rel="stylesheet" href="stylesheets/style.css">
-
-<link rel="stylesheet" href="stylesheets/skins/dourado.css">
-<!-- skin color -->
-<link rel="stylesheet" href="stylesheets/responsive.css">
-
-<link rel="stylesheet" href="stylesheets/estilo.css">
-<!-- IE Fix for HTML5 Tags -->
-<!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-
-<!-- Fonts awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<link rel="stylesheet" href="stylesheets/msg_aguarde.css">
+<?php
+  include('scripts.php');
+?>
 </head>
 
 <body>
@@ -60,8 +45,8 @@ header('Content-Type: text/html; charset=utf-8');
 ================================================== -->
 <div class="row">
 	<!-- CONTACT FORM -->
-	<div class="twelve columns">
-		<div class="wrapcontact">
+	<div>
+		<!-- <div class="wrapcontact"> -->
 			<div class="sucesso alerta done">
 				<div class="alert-box success">
 				 Mensagem enviada com sucesso! <a href="" class="close">x</a>
@@ -81,18 +66,15 @@ header('Content-Type: text/html; charset=utf-8');
 				<div class="select columns noleftmargin">
 					<h5>Quantidade de passageiros</h5>
           <input id="quantidade_passageiros" type="number" name="quantidade_passageiros" class="smoothborder" value="1" min="1" max="5" style="width:100px">
-					<!-- <select id="quantidade_passageiros" name="quantidade_passageiros" class="smoothborder" value="" required>
-						<option>1</option>
-						<option>2</option>
-						<option>3</option>
-						<option>4</option>
-						<option>5</option>
-					</select> -->
 				</div>
 				<p>
 				<div class="passageiro1">
 					<h5>Passageiro 1</h5>
 					<div class="form">
+            <div class="twelve columns noleftmargin">
+							<label>Pacote:</label>
+							<input id="pacote" type="text" name="pacote" class="smoothborder" placeholder="Camping, Quarto, Pousada..." required/>
+						</div>
 						<div class="six columns noleftmargin">
 							<label>Nome</label>
 							<input id="nome" type="text" name="name" class="smoothborder" required/>
@@ -120,6 +102,10 @@ header('Content-Type: text/html; charset=utf-8');
 				<div id="passageiro2">
 					<h5>Passageiro 2</h5>
 					<div class="form">
+            <div class="twelve columns noleftmargin">
+							<label>Pacote:</label>
+							<input id="pacote2" type="text" name="pacote2" class="smoothborder" placeholder="Camping, Quarto, Pousada..." required/>
+						</div>
 				    <div class="six columns noleftmargin">
 							<label>Nome</label>
 							<input id="nome2" type="text" name="name2" class="name smoothborder" placeholder="seu nome *"/>
@@ -147,6 +133,10 @@ header('Content-Type: text/html; charset=utf-8');
 				<div id="passageiro3">
 					<h5>Passageiro 3</h5>
 					<div class="form">
+            <div class="twelve columns noleftmargin">
+							<label>Pacote:</label>
+							<input id="pacote3" type="text" name="pacote3" class="smoothborder" placeholder="Camping, Quarto, Pousada..." required/>
+						</div>
 				    <div class="six columns noleftmargin">
 							<label>Nome</label>
 							<input id="nome3" type="text" name="name3" class="name smoothborder" placeholder="seu nome *"/>
@@ -174,6 +164,10 @@ header('Content-Type: text/html; charset=utf-8');
 				<div id="passageiro4">
 					<h5>Passageiro 4</h5>
 					<div class="form">
+            <div class="twelve columns noleftmargin">
+							<label>Pacote:</label>
+							<input id="pacote4" type="text" name="pacote4" class="smoothborder" placeholder="Camping, Quarto, Pousada..." required/>
+						</div>
 				    <div class="six columns noleftmargin">
 							<label>Nome</label>
 							<input id="nome4" type="text" name="name4" class="name smoothborder" placeholder="seu nome *"/>
@@ -201,6 +195,10 @@ header('Content-Type: text/html; charset=utf-8');
 				<div id="passageiro5">
 					<h5>Passageiro 5</h5>
 					<div class="form">
+            <div class="twelve columns noleftmargin">
+							<label>Pacote:</label>
+							<input id="pacote5" type="text" name="pacote5" class="smoothborder" placeholder="Camping, Quarto, Pousada..." required/>
+						</div>
 				    <div class="six columns noleftmargin">
 							<label>Nome</label>
 							<input id="nome5" type="text" name="name5" class="name smoothborder" placeholder="seu nome *"/>
@@ -226,7 +224,7 @@ header('Content-Type: text/html; charset=utf-8');
 				</p>
 				<input type="submit" class="readmore" value="Enviar">
 			</form>
-		</div>
+		<!-- </div> -->
 	</div>
 </div>
 <p class="slide">
@@ -241,9 +239,8 @@ header('Content-Type: text/html; charset=utf-8');
 <!-- JAVASCRIPTS
 ================================================== -->
 <!-- Javascript files placed here for faster loading -->
-<script src="javascripts/jquery.js"></script>
-<!-- <script src="javascripts/jquery-1.11.3.min.js" type="text/javascript"></script> -->
-<!-- <script src="javascripts/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script> -->
+<script src="javascripts/bootstrap/jquery.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
 <script type="text/javascript">
 	var vars = [], hash;
